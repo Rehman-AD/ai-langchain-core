@@ -1,4 +1,4 @@
-"""Loader that loads Notion directory dump."""
+"""Loader that loads Obsidian directory dump."""
 from pathlib import Path
 from typing import List
 
