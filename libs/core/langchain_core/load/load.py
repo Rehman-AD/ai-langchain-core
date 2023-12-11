@@ -6,7 +6,7 @@ from typing import Any, Dict, List, Optional
 from langchain_core.load.mapping import SERIALIZABLE_MAPPING
 from langchain_core.load.serializable import Serializable
 
-DEFAULT_NAMESPACES = ["langchain", "langchain_core"]
+DEFAULT_NAMESPACES = ["langchain", "langchain_core", "langchain_community"]
 
 
 class Reviver:
